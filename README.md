@@ -1,6 +1,6 @@
 # Code Blog
-
-Genel botlarınız için Bot Sitesi'dir. İstediğiniz gibi kullanabilirsiniz.
+ 
+Blog Sitesi'dir. İstediğiniz gibi kullanabilirsiniz.
 
 **Tek Şart;**
 "Ben Yaptım!" demeyin.
