@@ -1,6 +1,6 @@
 # Code Blog
  
-Blog Sitesi'dir. İstediğiniz gibi kullanabilirsiniz.
+Kişisel Blog Sitesi'dir. İstediğiniz gibi kullanabilirsiniz.
 
 **Tek Şart;**
 "Ben Yaptım!" demeyin.
